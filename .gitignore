@@ -132,3 +132,5 @@ coverage.*.json
 coverage-reports/
 
 !eng/**
+
+.claude/
